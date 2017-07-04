@@ -1,0 +1,30 @@
+2017-07-03 19:49:09,816 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-07-04 20:26:01,168 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-07-04 20:28:04,586 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: me.aboullaite:spring-doc-bot:0.0.1-SNAPSHOT @ C:\Users\lucas\Desktop\SpringBot-master\pom.xml.
+2017-07-04 20:28:09,293 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-doc-bot/src/main/java
+2017-07-04 20:28:09,294 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-doc-bot/src/main/resources
+2017-07-04 20:28:09,325 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-doc-bot/src/main/resources
+2017-07-04 20:28:09,338 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-doc-bot/src/test/java
+2017-07-04 20:28:10,971 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 10 sec
+2017-07-04 20:28:12,730 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 20:28:12,738 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-04 20:28:12,794 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-04 20:28:12,798 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 20:28:12,799 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\lucas\Desktop\SpringBot-master\src\test\resources
+2017-07-04 20:28:21,917 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-07-04 20:28:22,866 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: me.aboullaite:spring-doc-bot:0.0.1-SNAPSHOT @ C:\Users\lucas\Desktop\SpringBot-master\pom.xml.
+2017-07-04 20:28:24,239 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-doc-bot/src/main/java
+2017-07-04 20:28:24,240 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-doc-bot/src/main/resources
+2017-07-04 20:28:24,248 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-doc-bot/src/main/resources
+2017-07-04 20:28:24,249 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-doc-bot/src/test/java
+2017-07-04 20:28:24,522 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2017-07-04 20:28:25,419 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 20:28:25,454 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-04 20:28:25,485 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-04 20:28:25,498 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 20:28:25,499 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\lucas\Desktop\SpringBot-master\src\test\resources
+2017-07-04 20:31:24,434 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 20:31:24,446 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-04 20:31:24,451 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-04 20:31:24,453 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 20:31:24,453 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\lucas\Desktop\SpringBot-master\src\test\resources
